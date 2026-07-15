@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-api-testing",
+      "title": "Testing FastAPI APIs",
+      "description": "Write automated tests for FastAPI endpoints using unittest and TestClient.",
+      "path": "assignments/fastapi-api-testing",
+      "dueDate": "2026-07-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Template",
+          "file": "test_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
